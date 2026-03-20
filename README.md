@@ -73,5 +73,3 @@ Implements algorithm-based logic to optimize service distribution.
 </p>
 
 ---
-
-# 🧠 System Architecture
